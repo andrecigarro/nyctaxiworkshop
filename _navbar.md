@@ -1,0 +1,2 @@
+* [AWS Console](https://console.aws.amazon.com)
+* [Blog Post with some more information](https://aws.amazon.com/blogs/big-data/harmonize-query-and-visualize-data-from-various-providers-using-aws-glue-amazon-athena-and-amazon-quicksight/)
